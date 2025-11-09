@@ -25,4 +25,4 @@ Develop a C++ based custom shell that executes Linux commands, handles redirecti
 
 ### 🧱 Compilation
 ```bash
-g++ -std=c++17 main.cpp -o AyushShell
+g++ -std=c++17 main.cpp -o AswiniShell
