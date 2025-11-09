@@ -163,7 +163,7 @@ int main() {
 
     string input;
     while (true) {
-        cout << "AyushShell$ ";
+        cout << "AswiniShell$ ";
         getline(cin, input);
 
         if (input.empty()) continue;
@@ -203,4 +203,5 @@ int main() {
 
     cout << "Exiting AyushShell...\n";
     return 0;
+
 }
